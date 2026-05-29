@@ -114,6 +114,17 @@ I spend a lot of time thinking about the path between data and accelerators. A G
 
 ---
 
+## Open Source: Lustre
+
+I contribute to Lustre documentation and storage infrastructure work, with changes flowing through the Whamcloud/Gerrit review process and the public GitHub mirror.
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [lustre/lustre-release](https://github.com/lustre/lustre-release) | [LU-930 docs: fix typo in lgss_sk man page](https://github.com/lustre/lustre-release/commit/d34682caca6810bb4bc13519782b52247bb7dca6) | Merged |
+| [Whamcloud Gerrit](https://review.whamcloud.com/q/owner:ramkumarpochammala%2540gmail.com) | Lustre documentation fixes and review activity | In review / upstream flow |
+
+---
+
 ## Activity
 
 <p align="center">
