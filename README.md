@@ -18,6 +18,19 @@
 
 ---
 
+## Table of Contents
+
+- [About Me](#about-me)
+- [Core Focus](#core-focus)
+- [Tech Stack](#tech-stack)
+- [GitHub Stats](#github-stats)
+- [GitHub Trophies](#github-trophies)
+- [Latest Notes](#latest-notes)
+- [Open Source: Lustre](#open-source-lustre)
+- [Activity](#activity)
+
+---
+
 ## About Me
 
 I'm an AI infrastructure and site reliability engineer focused on the systems that make modern AI workloads actually run: GPU compute, high-speed networking, distributed storage, Kubernetes, Linux, and observability.
